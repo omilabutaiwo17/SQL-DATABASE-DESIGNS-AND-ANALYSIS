@@ -101,6 +101,7 @@ ON e.department_id = d.department_id;
 
 <img width="1920" height="1020" alt="Employee sql preview" src="https://github.com/user-attachments/assets/f6d8b2b4-9578-483d-a9a1-7b1e33c45807" />
 
+
 **Global Population & Economic Analysis using MySQL**
 
 **📌 Project Overview**
