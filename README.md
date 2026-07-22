@@ -102,11 +102,13 @@ ON e.department_id = d.department_id;
 <img width="1920" height="1020" alt="Employee sql preview" src="https://github.com/user-attachments/assets/f6d8b2b4-9578-483d-a9a1-7b1e33c45807" />
 
 
+
 **Global Population & Economic Analysis using MySQL**
 
 **📌 Project Overview**
 
 This project demonstrates SQL data analysis skills using the MySQL World Sample Database.
+
 The objective is to analyse global demographic and economic data by querying countries, cities, and languages to uncover meaningful insights.
 
 The project showcases intermediate to advanced SQL techniques including joins, subqueries, aggregate functions, calculated fields, sorting, filtering, and data exploration.
