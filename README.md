@@ -207,7 +207,6 @@ District,
 Population
 FROM City
 ORDER BY Population DESC;
-
 3. GDP Per Capita Analysis
 
 Calculated GDP per capita using:
@@ -242,8 +241,7 @@ WHERE
 (
 SELECT AVG(GNP / Population)
 FROM Country
-);
-5. Population Ranking
+);5. Population Ranking
 
 Retrieved the most populated cities worldwide.
 
