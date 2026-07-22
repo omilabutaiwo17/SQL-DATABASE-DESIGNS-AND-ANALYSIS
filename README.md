@@ -1,5 +1,6 @@
-# SQL-DATABASE-DESIGNS-AND-ANALYSIS
-# 🗄️ SQL Project – Employee Database Analysis
+# SQL-DATABASE-DESIGNS-AND-ANALYSIS PROJECTS
+
+** 🗄️ SQL Project – Employee Database Analysis**
 
 ## 📌 Overview
 
